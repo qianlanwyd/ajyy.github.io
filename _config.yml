@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Junyi Ao"
-description              : "PhD Student at the Chinese University of Hong Kong, Shenzhen"
+description              :
 repository               : "Ajyy/ajyy.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Junyi Ao (敖君逸)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "The Chinese University of Hong Kong, Shenzhen"
+  bio              : "PhD Student at the Chinese University of Hong Kong, Shenzhen"
   location         : "Shenzhen, China"
   employer         :
   pubmed           : 
