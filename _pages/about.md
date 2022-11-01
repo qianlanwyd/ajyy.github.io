@@ -38,6 +38,8 @@ Hi, I am a first-year PhD student at the Chinese University of Hong Kong Shenzhe
 </div>
 </div> -->
 
+- [token2vec: A Joint Self-Supervised Pre-training Framework Using Unpaired Speech and Text](https://arxiv.org/abs/2210.16755), Xianghu Yue, **Junyi Ao**, Xiaoxue Gao, Haizhou Li, **arXiv Preprint**
+
 - [CoBERT: Self-Supervised Speech Representation Learning Through Code Representation Learning](https://arxiv.org/abs/2210.04062), Chutong Meng, **Junyi Ao**, Tom Ko, Mingxuan Wang, Haizhou Li, **arXiv Preprint**
 
 - [SpeechUT: Bridging Speech and Text with Hidden-Unit for Encoder-Decoder Based Speech-Text Pre-training](https://arxiv.org/abs/2210.03730), Ziqiang Zhang, Long Zhou, **Junyi Ao**, Shujie Liu, Lirong Dai, Jinyu Li, Furu Wei, **EMNLP 2022** \| [![](https://img.shields.io/github/stars/microsoft/SpeechT5?style=social&label=Code+Stars)](https://github.com/microsoft/SpeechT5/tree/main/SpeechUT)
