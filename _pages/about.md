@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am a first-year PhD student at the Chinese University of Hong Kong Shenzhen, supervised by [Prof. Haizhou Li](https://colips.org/~eleliha/). My research interests include automatic speech recognition, speech translation and speech pre-training.
+Hi, I am a first-year PhD student at the School of Data Science, the Chinese University of Hong Kong (Shenzhen), supervised by [Prof. Haizhou Li](https://colips.org/~eleliha/). My research interests include automatic speech recognition, speech translation and speech pre-training.
 
 
 <!-- # 🔥 News
@@ -38,7 +38,9 @@ Hi, I am a first-year PhD student at the Chinese University of Hong Kong Shenzhe
 </div>
 </div> -->
 
-- [CoBERT: Self-Supervised Speech Representation Learning Through Code Representation Learning](https://arxiv.org/abs/2210.04062), Chutong Meng, **Junyi Ao** Tom Ko, Mingxuan Wang, Haizhou Li, **arXiv Preprint**
+- [token2vec: A Joint Self-Supervised Pre-training Framework Using Unpaired Speech and Text](https://arxiv.org/abs/2210.16755), Xianghu Yue, **Junyi Ao**, Xiaoxue Gao, Haizhou Li, **arXiv Preprint**
+
+- [CoBERT: Self-Supervised Speech Representation Learning Through Code Representation Learning](https://arxiv.org/abs/2210.04062), Chutong Meng, **Junyi Ao**, Tom Ko, Mingxuan Wang, Haizhou Li, **arXiv Preprint** \| [![](https://img.shields.io/github/stars/mct10/CoBERT?style=social&label=Code+Stars)](https://github.com/mct10/CoBERT)
 
 - [SpeechUT: Bridging Speech and Text with Hidden-Unit for Encoder-Decoder Based Speech-Text Pre-training](https://arxiv.org/abs/2210.03730), Ziqiang Zhang, Long Zhou, **Junyi Ao**, Shujie Liu, Lirong Dai, Jinyu Li, Furu Wei, **EMNLP 2022** \| [![](https://img.shields.io/github/stars/microsoft/SpeechT5?style=social&label=Code+Stars)](https://github.com/microsoft/SpeechT5/tree/main/SpeechUT)
 
@@ -59,7 +61,7 @@ Hi, I am a first-year PhD student at the Chinese University of Hong Kong Shenzhe
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- *2022.09 - now*, Ph.D., the Chinese University of Hong Kong, Shenzhen.
+- *2022.09 - now*, Ph.D., the Chinese University of Hong Kong (Shenzhen).
 - *2016.09 - 2020.06*, B.Eng, Southern University of Science and Technology.
 
 <!-- # 💬 Invited Talks
