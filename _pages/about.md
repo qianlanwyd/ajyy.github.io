@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am a first-year PhD student at the School of Data Science, the Chinese University of Hong Kong (Shenzhen), supervised by [Prof. Haizhou Li](https://colips.org/~eleliha/). My research interests include automatic speech recognition, speech translation and speech pre-training.
+Hi, I am a PhD student at the School of Data Science, the Chinese University of Hong Kong (Shenzhen), supervised by [Prof. Haizhou Li](https://colips.org/~eleliha/). My research interests include automatic speech recognition, speech translation and speech pre-training.
 
 
 <!-- # 🔥 News
